@@ -1,0 +1,98 @@
+column_name,non_null_count,data_type
+block,40,int64
+condition,40,object
+accuracy,40,float64
+rt_mean,40,float64
+rt_std,40,float64
+rt_median,40,float64
+n_trials,40,int64
+participant,40,object
+Left_TEMP_mean_temp_mean,10,float64
+Left_TEMP_mean_temp_std,10,float64
+Left_TEMP_temp_std_mean,10,float64
+Left_TEMP_temp_std_std,10,float64
+Left_TEMP_max_temp_rate_mean,10,float64
+Left_TEMP_max_temp_rate_std,10,float64
+Left_TEMP_min_temp_rate_mean,10,float64
+Left_TEMP_min_temp_rate_std,10,float64
+Left_BVP_mean_pulse_rate_mean,10,float64
+Left_BVP_mean_pulse_rate_std,10,float64
+Left_BVP_pulse_rate_std_mean,10,float64
+Left_BVP_pulse_rate_std_std,10,float64
+Left_BVP_mean_pulse_amplitude_mean,10,float64
+Left_BVP_mean_pulse_amplitude_std,10,float64
+Left_BVP_pulse_amplitude_std_mean,10,float64
+Left_BVP_pulse_amplitude_std_std,10,float64
+Left_ACC_mean_acc_mean,10,float64
+Left_ACC_mean_acc_std,10,float64
+Left_ACC_acc_std_mean,10,float64
+Left_ACC_acc_std_std,10,float64
+Left_ACC_activity_count_mean,10,float64
+Left_ACC_activity_count_std,10,float64
+Left_ACC_peak_frequency_mean,10,float64
+Left_ACC_peak_frequency_std,10,float64
+Right_TEMP_mean_temp_mean,10,float64
+Right_TEMP_mean_temp_std,10,float64
+Right_TEMP_temp_std_mean,10,float64
+Right_TEMP_temp_std_std,10,float64
+Right_TEMP_max_temp_rate_mean,10,float64
+Right_TEMP_max_temp_rate_std,10,float64
+Right_TEMP_min_temp_rate_mean,10,float64
+Right_TEMP_min_temp_rate_std,10,float64
+Right_BVP_mean_pulse_rate_mean,10,float64
+Right_BVP_mean_pulse_rate_std,10,float64
+Right_BVP_pulse_rate_std_mean,10,float64
+Right_BVP_pulse_rate_std_std,10,float64
+Right_BVP_mean_pulse_amplitude_mean,10,float64
+Right_BVP_mean_pulse_amplitude_std,10,float64
+Right_BVP_pulse_amplitude_std_mean,10,float64
+Right_BVP_pulse_amplitude_std_std,10,float64
+Right_ACC_mean_acc_mean,10,float64
+Right_ACC_mean_acc_std,10,float64
+Right_ACC_acc_std_mean,10,float64
+Right_ACC_acc_std_std,10,float64
+Right_ACC_activity_count_mean,10,float64
+Right_ACC_activity_count_std,10,float64
+Right_ACC_peak_frequency_mean,10,float64
+Right_ACC_peak_frequency_std,10,float64
+timestamps,10,float64
+TP9_delta_power,10,float64
+TP9_theta_power,10,float64
+TP9_alpha_power,10,float64
+TP9_beta_power,10,float64
+TP9_gamma_power,10,float64
+TP9_entropy,10,float64
+AF7_delta_power,10,float64
+AF7_theta_power,10,float64
+AF7_alpha_power,10,float64
+AF7_beta_power,10,float64
+AF7_gamma_power,10,float64
+AF7_entropy,10,float64
+AF8_delta_power,10,float64
+AF8_theta_power,10,float64
+AF8_alpha_power,10,float64
+AF8_beta_power,10,float64
+AF8_gamma_power,10,float64
+AF8_entropy,10,float64
+TP10_delta_power,10,float64
+TP10_theta_power,10,float64
+TP10_alpha_power,10,float64
+TP10_beta_power,10,float64
+TP10_gamma_power,10,float64
+TP10_entropy,10,float64
+Right AUX_delta_power,10,float64
+Right AUX_theta_power,10,float64
+Right AUX_alpha_power,10,float64
+Right AUX_beta_power,10,float64
+Right AUX_gamma_power,10,float64
+Right AUX_entropy,10,float64
+corr_TP9_AF7,10,float64
+corr_TP9_AF8,10,float64
+corr_TP9_TP10,10,float64
+corr_TP9_Right AUX,10,float64
+corr_AF7_AF8,10,float64
+corr_AF7_TP10,10,float64
+corr_AF7_Right AUX,10,float64
+corr_AF8_TP10,10,float64
+corr_AF8_Right AUX,10,float64
+corr_TP10_Right AUX,10,float64
